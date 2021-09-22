@@ -1,4 +1,5 @@
-@Buffes - Edvin
+Edvin
+
 Master's student of High Performance Computer Systems at Chalmers University of Technology.
 
 <!---
